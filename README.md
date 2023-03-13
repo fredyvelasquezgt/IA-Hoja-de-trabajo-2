@@ -9,4 +9,7 @@ Facultad de Ingeniería <br>
 **Librería simple que permite la creación de redes bayesianas.** <br>
 
 
+## Instalacion
+
+pip install BayesianNetwork
 
