@@ -9,8 +9,4 @@ Facultad de Ingeniería <br>
 **Librería simple que permite la creación de redes bayesianas.** <br>
 
 
-## Uso
-
-Ver archivo: Ejemplo.py
-
 
